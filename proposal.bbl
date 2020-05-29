@@ -1,0 +1,636 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Dias12Metabolites2p303}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b85dd0656be59409e7b45c34fd2dec62}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6aef1608e9fe870c46f635d681a0067b}{%
+           family={Urban},
+           familyi={U\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d86e084f41cfb50e0533e21fe2bbe3f0}{%
+           family={Roessner},
+           familyi={R\bibinitperiod},
+           given={Ute},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{ec065fecf42aba12da2018f8295fcdb5}
+      \strng{fullhash}{96b46bd3e6c8e3b707f85334c06940fc}
+      \strng{bibnamehash}{96b46bd3e6c8e3b707f85334c06940fc}
+      \strng{authorbibnamehash}{96b46bd3e6c8e3b707f85334c06940fc}
+      \strng{authornamehash}{ec065fecf42aba12da2018f8295fcdb5}
+      \strng{authorfullhash}{96b46bd3e6c8e3b707f85334c06940fc}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Historically, natural products have been used since ancient times and in folklore for the treatment of many diseases and illnesses. Classical natural product chemistry methodologies enabled a vast array of bioactive secondary metabolites from terrestrial and marine sources to be discovered. Many of these natural products have gone on to become current drug candidates. This brief review aims to highlight historically significant bioactive marine and terrestrial natural products, their use in folklore and dereplication techniques to rapidly facilitate their discovery. Furthermore a discussion of how natural product chemistry has resulted in the identification of many drug candidates; the application of advanced hyphenated spectroscopic techniques to aid in their discovery, the future of natural product chemistry and finally adopting metabolomic profiling and dereplication approaches for the comprehensive study of natural product extracts will be discussed.}
+      \field{issn}{2218-1989}
+      \field{journaltitle}{Metabolites}
+      \field{number}{2}
+      \field{title}{A Historical Overview of Natural Products in Drug Discovery}
+      \field{volume}{2}
+      \field{year}{2012}
+      \field{pages}{303\bibrangedash 336}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.3390/metabo2020303
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.3390/metabo2020303
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3390/metabo2020303
+      \endverb
+    \endentry
+    \entry{Butler04JNatProd67p2141}{article}{}
+      \name{author}{1}{}{%
+        {{hash=774198e5d588af90d71bebf666d81a23}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Mark\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{774198e5d588af90d71bebf666d81a23}
+      \strng{fullhash}{774198e5d588af90d71bebf666d81a23}
+      \strng{bibnamehash}{774198e5d588af90d71bebf666d81a23}
+      \strng{authorbibnamehash}{774198e5d588af90d71bebf666d81a23}
+      \strng{authornamehash}{774198e5d588af90d71bebf666d81a23}
+      \strng{authorfullhash}{774198e5d588af90d71bebf666d81a23}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although traditionally natural products have played an important role in drug discovery, in the past few years most Big Pharma companies have either terminated or considerably scaled down their natural product operations. This is despite a significant number of natural product-derived drugs being ranked in the top 35 worldwide selling ethical drugs in 2000, 2001, and 2002. There were 15 new natural product-derived drugs launched from 2000 to 2003, as well as 15 natural product-derived compounds in Phase III clinical trials or registration at the end of 2003. Recently, there has been a renewed interest in natural product research due to the failure of alternative drug discovery methods to deliver many lead compounds in key therapeutic areas such as immunosuppression, anti-infectives, and metabolic diseases. To continue to be competitive with other drug discovery methods, natural product research needs to continually improve the speed of the screening, isolation, and structure elucidation processes, as well addressing the suitability of screens for natural product extracts and dealing with issues involved with large-scale compound supply.}
+      \field{issn}{1520-6025}
+      \field{journaltitle}{J. Nat. Prod.}
+      \field{number}{12}
+      \field{title}{The Role of Natural Product Chemistry in Drug Discoveryi$\dagger$}
+      \field{volume}{67}
+      \field{year}{2004}
+      \field{pages}{2141\bibrangedash 2153}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1021/np040106y
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1021/np040106y
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/np040106y
+      \endverb
+    \endentry
+    \entry{Robert06RNA12p717}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9c64d715b8866dbad48810d1e71d8393}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2f4bb206babf183edf186c3e19854b47}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Hong\bibnamedelima Q.},
+           giveni={H\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=6a55455ea8141eb65a0d65fcb6ec04fd}{%
+           family={Donia},
+           familyi={D\bibinitperiod},
+           given={Marwa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1ea3aa2abda6bf1f52f0815d57891f2c}{%
+           family={Merrick},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=17e897d23a0567bd6b6a2b2e087f1154}{%
+           family={Hamann},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=4c5a69d10bb7376ba18ae5b8c0ff8d04}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{6b0f61946ab28fca64b02f6351287216}
+      \strng{fullhash}{edf9881d76edc770bf5387073668b63c}
+      \strng{bibnamehash}{edf9881d76edc770bf5387073668b63c}
+      \strng{authorbibnamehash}{edf9881d76edc770bf5387073668b63c}
+      \strng{authornamehash}{6b0f61946ab28fca64b02f6351287216}
+      \strng{authorfullhash}{edf9881d76edc770bf5387073668b63c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lissoclimides are cytotoxic compounds produced by shell-less molluscs through chemical secretions to deter predators. Chlorinated lissoclimides were identified as the active component of a marine extract from Pleurobranchus forskalii found during a high-throughput screening campaign to characterize new protein synthesis inhibitors. It was demonstrated that these compounds inhibit protein synthesis in vitro, in extracts prepared from mammalian and plant cells, as well as in vivo against mammalian cells. Our results suggest that they block translation elongation by inhibiting translocation, leading to an accumulation of ribosomes on mRNA. These data provide a rationale for the cytotoxic nature of this class of small molecule natural products.}
+      \field{issn}{1355-8382}
+      \field{journaltitle}{RNA}
+      \field{number}{5}
+      \field{title}{Chlorolissoclimides: New inhibitors of eukaryotic protein synthesis}
+      \field{volume}{12}
+      \field{year}{2006}
+      \field{pages}{717\bibrangedash 725}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1261/rna.2346806
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1261/rna.2346806
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1261/rna.2346806
+      \endverb
+    \endentry
+    \entry{Imai08ProteinScience17p1129}{article}{}
+      \name{author}{4}{}{%
+        {{hash=746faff9cbae2df60800ef925dd61ff7}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Yumi\bibnamedelima N.},
+           giveni={Y\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=2ac3364f6399b4b6a0e8c01ab7a0af58}{%
+           family={Inoue},
+           familyi={I\bibinitperiod},
+           given={Yoshihisa},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5bfa7c0e252179add3248b58cae34591}{%
+           family={Nakanishi},
+           familyi={N\bibinitperiod},
+           given={Isao},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0c67889b49616af650565d6399d5c504}{%
+           family={Kitaura},
+           familyi={K\bibinitperiod},
+           given={Kazuo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{1f68ffb633f4ac2755716d31e880e722}
+      \strng{fullhash}{b86dd43ffb30c09ad7519c4d11ae8fa7}
+      \strng{bibnamehash}{b86dd43ffb30c09ad7519c4d11ae8fa7}
+      \strng{authorbibnamehash}{b86dd43ffb30c09ad7519c4d11ae8fa7}
+      \strng{authornamehash}{1f68ffb633f4ac2755716d31e880e722}
+      \strng{authorfullhash}{b86dd43ffb30c09ad7519c4d11ae8fa7}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1469-896X}
+      \field{journaltitle}{Protein Sci.}
+      \field{number}{7}
+      \field{title}{Cl-$\pi$ Interactions in Protein-Ligand Complexes}
+      \field{volume}{17}
+      \field{year}{2008}
+      \field{pages}{1129\bibrangedash 1137}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1110/ps.033910.107
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1110/ps.033910.107
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1110/ps.033910.107
+      \endverb
+    \endentry
+    \entry{Konst2017}{article}{}
+      \name{author}{15}{}{%
+        {{hash=349d57a42410dcb0a3ac56e43d1019ed}{%
+           family={K{\"{o}}nst},
+           familyi={K\bibinitperiod},
+           given={Zef\bibnamedelima A.},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8a65207fb4943bc23b958a2e3fbc6e4d}{%
+           family={Szklarski},
+           familyi={S\bibinitperiod},
+           given={Anne\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=df82cc99dde42cfa0a51494edfdd150f}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ad4480e0f2154a96c5dbffa97b5cb01c}{%
+           family={Michalak},
+           familyi={M\bibinitperiod},
+           given={Sharon\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=a78d78e29a772f957d7f1b779c1d70f0}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={M{\'{e}}lanie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6870d44a467a910fc15635d95ac9ab17}{%
+           family={Zanette},
+           familyi={Z\bibinitperiod},
+           given={Camila},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c378ae7ea237e66825ca9762a70ce384}{%
+           family={Cencic},
+           familyi={C\bibinitperiod},
+           given={Regina},
+           giveni={R\bibinitperiod}}}%
+        {{hash=36741bb03a760cde317b9be2af011cab}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={Sangkil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aeafab71fea3dcb479f69a14c87eedd7}{%
+           family={Voora},
+           familyi={V\bibinitperiod},
+           given={Vamsee\bibnamedelima K.},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=bab33bd0aec18abb2cc691835466b830}{%
+           family={Horne},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4c5a69d10bb7376ba18ae5b8c0ff8d04}{%
+           family={Pelletier},
+           familyi={P\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1d474edcda2b01d832933784bd89471a}{%
+           family={Mobley},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2ad3f97ec47630ea2425068575a7e064}{%
+           family={Yusupova},
+           familyi={Y\bibinitperiod},
+           given={Gulnara},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f2a63a35bb8507926616cbc533365b7c}{%
+           family={Yusupov},
+           familyi={Y\bibinitperiod},
+           given={Marat},
+           giveni={M\bibinitperiod}}}%
+        {{hash=49aafd1b11bca8a6adf1cee375d18228}{%
+           family={Vanderwal},
+           familyi={V\bibinitperiod},
+           given={Christopher\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2fb4e3c65d1270711dae7524562475d}
+      \strng{fullhash}{8c0b40eb09042715dadea9367281c188}
+      \strng{bibnamehash}{8c0b40eb09042715dadea9367281c188}
+      \strng{authorbibnamehash}{8c0b40eb09042715dadea9367281c188}
+      \strng{authornamehash}{a2fb4e3c65d1270711dae7524562475d}
+      \strng{authorfullhash}{8c0b40eb09042715dadea9367281c188}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1755-4349}
+      \field{journaltitle}{Nat. Chem.}
+      \field{number}{11}
+      \field{title}{Synthesis facilitates an understanding of the structural basis for translation inhibition by the lissoclimides}
+      \field{volume}{9}
+      \field{year}{2017}
+      \field{pages}{1140\bibrangedash 1149}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1038/nchem.2800
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/nchem.2800
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/nchem.2800
+      \endverb
+    \endentry
+    \entry{Riley08JChemTheoryComput4p232}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bb7c082d0da9795cd3b6cc70e652bd87}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Kevin\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=bc292f67802ed46614a33453b85f3c5d}{%
+           family={Hobza},
+           familyi={H\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{fullhash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{bibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{authorbibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{authornamehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{authorfullhash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1549-9626}
+      \field{journaltitle}{J. Chem. Theory Comput.}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Investigations into the Nature of Halogen Bonding Including Symmetry Adapted Perturbation Theory Analyses}
+      \field{volume}{4}
+      \field{year}{2008}
+      \field{pages}{232\bibrangedash 242}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1021/ct700216w
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1021/ct700216w
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/ct700216w
+      \endverb
+    \endentry
+    \entry{Riley13PhysChemChemPhys15p17742}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bb7c082d0da9795cd3b6cc70e652bd87}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Kevin\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=bc292f67802ed46614a33453b85f3c5d}{%
+           family={Hobza},
+           familyi={H\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry (RSC)}%
+      }
+      \strng{namehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{fullhash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{bibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{authorbibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{authornamehash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \strng{authorfullhash}{a62f0e9ea7f583ba4527f0652752c82c}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1463-9084}
+      \field{journaltitle}{Phys. Chem. Chem. Phys.}
+      \field{number}{41}
+      \field{title}{The relative roles of electrostatics and dispersion in the stabilization of halogen bonds}
+      \field{volume}{15}
+      \field{year}{2013}
+      \field{pages}{17742}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1039/c3cp52768a
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/C3CP52768A
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/C3CP52768A
+      \endverb
+    \endentry
+    \entry{Sedlak14JPhysChemA118p3846}{article}{}
+      \name{author}{3}{}{%
+        {{hash=489833b4fd58e25ef5f1909fcec7b216}{%
+           family={Sedlak},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6afc66db40c7de0b711aab11aa4368fc}{%
+           family={Deepa},
+           familyi={D\bibinitperiod},
+           given={Palanisamy},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bc292f67802ed46614a33453b85f3c5d}{%
+           family={Hobza},
+           familyi={H\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{28d56172aca552ed81f5d23c8d07ffc0}
+      \strng{fullhash}{602559b23be8f9af63ec687b8f41ad2d}
+      \strng{bibnamehash}{602559b23be8f9af63ec687b8f41ad2d}
+      \strng{authorbibnamehash}{602559b23be8f9af63ec687b8f41ad2d}
+      \strng{authornamehash}{28d56172aca552ed81f5d23c8d07ffc0}
+      \strng{authorfullhash}{602559b23be8f9af63ec687b8f41ad2d}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1520-5215}
+      \field{journaltitle}{J. Phys. Chem. A}
+      \field{month}{5}
+      \field{number}{21}
+      \field{title}{Why Is the L-Shaped Structure of X2X2 (X = F, Cl, Br, I) Complexes More Stable Than Other Structures?}
+      \field{volume}{118}
+      \field{year}{2014}
+      \field{pages}{3846\bibrangedash 3855}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/jp502648e
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1021/jp502648e
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/jp502648e
+      \endverb
+    \endentry
+    \entry{Nguyen20JChemTheoryComput16p2258}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7f717a31d6155f6c4101d05aee44186f}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Brian\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a40601abac068cead8a4d3f7fbdfe3c6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guo\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0415e104846ca3a744a2ce9acaaa82f7}{%
+           family={Agee},
+           familyi={A\bibinitperiod},
+           given={Matthew\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c2c7f06dd478cc061f2a6bed3996572a}{%
+           family={Burow},
+           familyi={B\bibinitperiod},
+           given={Asbj{\"{o}}rn\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2f2b89abb21a4391bd891075f73e4e05}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Matthew\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=7b43fcac9e5264f875801fb40eaa2aaa}{%
+           family={Furche},
+           familyi={F\bibinitperiod},
+           given={Filipp},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{e6578a67c597f657c044a32847d56ea5}
+      \strng{fullhash}{48e6a7fa3fea8847cfa74659436089e3}
+      \strng{bibnamehash}{48e6a7fa3fea8847cfa74659436089e3}
+      \strng{authorbibnamehash}{48e6a7fa3fea8847cfa74659436089e3}
+      \strng{authornamehash}{e6578a67c597f657c044a32847d56ea5}
+      \strng{authorfullhash}{48e6a7fa3fea8847cfa74659436089e3}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1549-9626}
+      \field{journaltitle}{J. Chem. Theory Comput.}
+      \field{number}{4}
+      \field{title}{Divergence of Many-Body Perturbation Theory for Noncovalent Interactions of Large Molecules}
+      \field{volume}{16}
+      \field{year}{2020}
+      \field{pages}{2258\bibrangedash 2273}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1021/acs.jctc.9b01176
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1021/acs.jctc.9b01176
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/acs.jctc.9b01176
+      \endverb
+    \endentry
+    \entry{Staroverov03JChemPhys119p12129}{article}{}
+      \name{author}{4}{}{%
+        {{hash=68444601b5ada1afb9472f658e64431f}{%
+           family={Staroverov},
+           familyi={S\bibinitperiod},
+           given={Viktor\bibnamedelima N.},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=2344ccf562c26dc9eae25808fc333f9b}{%
+           family={Scuseria},
+           familyi={S\bibinitperiod},
+           given={Gustavo\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3e114a93729f3957f60519871546aead}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Jianmin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f7d11de7da27036e0c12d4055b2fb92d}{%
+           family={Perdew},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AIP Publishing}%
+      }
+      \strng{namehash}{eea308d215e40a2ea5deab731386e647}
+      \strng{fullhash}{022b973c26823d7054acc824e855576d}
+      \strng{bibnamehash}{022b973c26823d7054acc824e855576d}
+      \strng{authorbibnamehash}{022b973c26823d7054acc824e855576d}
+      \strng{authornamehash}{eea308d215e40a2ea5deab731386e647}
+      \strng{authorfullhash}{022b973c26823d7054acc824e855576d}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1089-7690}
+      \field{journaltitle}{J. Chem. Phys.}
+      \field{number}{23}
+      \field{title}{Comparative assessment of a new nonempirical density functional: Molecules and hydrogen-bonded complexes}
+      \field{volume}{119}
+      \field{year}{2003}
+      \field{pages}{12129\bibrangedash 12137}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1063/1.1626543
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1063/1.1626543
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1063/1.1626543
+      \endverb
+    \endentry
+    \entry{Grimme12ChemEurJ18p9955}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3a2585af369dbd4150db746c63177b0c}{%
+           family={Grimme},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{3a2585af369dbd4150db746c63177b0c}
+      \strng{fullhash}{3a2585af369dbd4150db746c63177b0c}
+      \strng{bibnamehash}{3a2585af369dbd4150db746c63177b0c}
+      \strng{authorbibnamehash}{3a2585af369dbd4150db746c63177b0c}
+      \strng{authornamehash}{3a2585af369dbd4150db746c63177b0c}
+      \strng{authorfullhash}{3a2585af369dbd4150db746c63177b0c}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0947-6539}
+      \field{journaltitle}{Chem. Eur. J.}
+      \field{number}{32}
+      \field{title}{Supramolecular Binding Thermodynamics by Dispersion-Corrected Density Functional Theory}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{pages}{9955\bibrangedash 9964}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/chem.201200497
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1002/chem.201200497
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/chem.201200497
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
