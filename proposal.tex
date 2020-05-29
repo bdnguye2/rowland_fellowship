@@ -43,9 +43,9 @@
 % Title, authors, date
 %\title{\vspace{-1in}\textbf{Characterizing and visualizing the halogen--$\pi$ interactions
 %    between lissoclimides and eukaryotic ribosome using random phase approximation}}
-\title{\vspace{-0.8in}\textbf{Within the random phase approximation,
-    can noncovalent interactions be visualized and interpreted?}}
-\author{\underline{Brian D. Nguyen}, Chris Vanderwal, and Filipp Furche}
+\title{\vspace{-0.8in}\textbf{Can noncovalent interactions be visualized
+    and interpreted using the random phase approximation?}}
+\author{\underline{Brian D. Nguyen}, Christopher Vanderwal, and Filipp Furche}
 \date{}%\vspace{-0.17in}\today}
 %
 %
@@ -57,38 +57,41 @@
 \begin{document}
 
 \maketitle
-\vspace{-0.25in}
-Natural products have been an important source for designing new cancer
+\vspace{-0.4in}
+
+\textbf{Introduction}
+
+Natural products have served as models for designing new anticancer
 drugs over the past several decades.\autocite{Dias12Metabolites2p303,Butler04JNatProd67p2141}
-For example, the chlorolissoclimide (CL) extracted from the ascidian
-\textit{Lissoclinum voeltzkowi} is a powerful cytotoxic bicyclic diterpene
-alkaloid that inhibits eukaryotic translation elongation.\autocite{Robert06RNA12p717}
-This inhibition leads to ribosome accumulation and eventual cell death. 
+One example is the chlorolissoclimide (CL) extracted from the ascidian
+\textit{Lissoclinum voeltzkowi} which inhibits cell growth by binding to
+eukaryotic ribosomes and preventing translation.\autocite{Robert06RNA12p717}
 The X-ray co-crystal structure of CL with the eukaryotic 80S ribosome revealed
 a novel halogen--$\pi$ interaction between the ligand's alkyl chloride and two
-guanine nucleotides.\autocite{Imai08ProteinScience17p1129,Konst2017} This
-type of interaction has been noted to be dispersion
-dominant.\autocite{Riley08JChemTheoryComput4p232,Riley13PhysChemChemPhys15p17742,
-  Sedlak14JPhysChemA118p3846} In this research project, I will combine both
-experimental and theoretical methods to tune dispersion interactions for
-designing and synthesizing analogues of lissoclimide for new cancer
+guanine nucleotides.\autocite{Imai08ProteinScience17p1129,Konst2017} 
+However, the specificity of the halogen--$\pi$ interactions is not well
+understood. In this project, I will address the problem by developing a
+computational tool based on electronic structure theory to characterize
+and visualize noncovalent interactions (NIs) that can then be used to
+guide the design and synthesis of lissoclimide analogues for new cancer
 therapeutics.
 
-To achieve the project's goal, the correct computational and theoretical understanding of
-dispersion interactions are key to designing new therapeutics. Dispersion is not
-only non-trivial to predict computationally but also, it is even harder to
-characterize and interpret. In a recent publication, we demonstrated that
-the random phase approximation (RPA) provides the correct description of dispersion
-interactions compared to the many-body perturbation theory (MBPT) for noncovalent
-interactions (NIs).\autocite{Nguyen20JChemTheoryComput16p2258} The accuracy of RPA
-is achieved without any additional empirical parameters and at an efficient
-computational cost. Based on this study, I propose using RPA to develop a
-visualization tool for characterizing dispersion interactions that can then be
-applied to a simplified model of the intermolecular interactions between
-the CL and eukaryotic 80S ribosome, see Fig. \ref{fig:model}.
+To achieve the project's goal, the correct computational and theoretical
+understanding of dispersion interactions is key to designing new therapeutics.
+Dispersion interactions are viewed as long-range electronic interactions that
+are non-trivial to compute and difficult to characterize. In a recent publication,
+we demonstrated that nonperturbative methods such as the random phase approximation
+(RPA) provides the correct description of dispersion interactions compared
+to the many-body perturbation theory (MBPT) for NIs.\autocite{Nguyen20JChemTheoryComput16p2258}
+RPA is an unprecedented theory that achieves this accuracy without any
+additional empirical parameters while remaining computationally efficient.
+Based on this study, I propose using RPA to develop a tool for characterizing
+dispersion interactions and verifying the tool with a simplified model of the
+intermolecular interactions between the CL and eukaryotic 80S ribosome, see
+Fig. \ref{fig:model}.
 
 \begin{wrapfigure}{r}{0.5\linewidth}
-  \vspace{-33pt}
+  \vspace{-20pt}
   \centering
   \includegraphics[scale=0.12]{combined.png}
   \caption{a) A series of substituted lissoclimides of different halogens.
@@ -99,25 +102,23 @@ the CL and eukaryotic 80S ribosome, see Fig. \ref{fig:model}.
   \label{fig:model}
 \end{wrapfigure}
 
-I will be coordinating with my primary advisor Filipp Furche in
-theoretical chemistry and my secondary advisor Chris Vanderwal in organic
-chemistry to elucidate the behaviors of NIs and then apply these predictions
-to design better cancer therapeutics. The research plan consists of three
-parts where the first two parts are done in the Furche Group while the third
-part is performed in the Vanderwal Group.
+\textbf{Research Plan}
 
-First, I will conduct a comprehensive computational study on the nature
-and magnitude of the intermolecular interaction by varying the halogen
-moiety (X = F, Cl, Br, I, CH$_3$) as an extension to the work by K{\"o}nst
-\textit{et al.},\autocite{Konst2017} see Fig. \ref{fig:model}. My preliminary
-gas phase binding energies for the lissoclimide family were shown to increase
-going down the halogen group. However, the question of why this trend
-is observed remains. To explain this observation, I will develop a visualization
-tool for dispersion interactions by interpreting the corresponding eigenvectors of
-the RPA correlation energies as plasmonic modes describing collective excitations
-of the electrons. Lastly, the third part is the confirmation of the computational
-results by synthesis of the substituted lissoclimide along with testing
-the drug's potency through \textit{in vitro} studies.
+The halogen-$\pi$ interactions between the CL and ribosome were
+studied based on a simplified model by K{\"o}nst \textit{et al.}\autocite{Konst2017}
+I have performed preliminary work by improving upon this model and
+varied the halogen moiety (X = F, Cl, Br, I, CH$_3$), see Fig. \ref{fig:model},
+that showed binding energies increasing going down the halogen group. In addition,
+the methylissoclimide surprisingly yielded a binding energy within 2
+kcal/mol compared to iodolissoclimide. Dispersion interactions are suspected
+but, these remain to be intuitively understood. Hence, I will be spending time with
+Prof. Filipp Furche attempting to capture and visualize the spontaneously induced
+electronic attractions through analyzing the corresponding eigenvectors of the RPA
+correlation energy. Lastly, I will work with Prof. Christopher Vanderwal to refine
+and confirm the computational tool through the synthesis of the substituted lissoclimide
+along with testing the drug's potency through \textit{in vitro} studies.
+
+\textbf{Contribution to Doctoral Dissertation}
 
 For my doctoral studies, I have envisioned my dissertation
 to be focused on developing state-of-the-art approaches that accurately

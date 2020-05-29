@@ -334,145 +334,6 @@
       \verb https://doi.org/10.1038/nchem.2800
       \endverb
     \endentry
-    \entry{Riley08JChemTheoryComput4p232}{article}{}
-      \name{author}{2}{}{%
-        {{hash=bb7c082d0da9795cd3b6cc70e652bd87}{%
-           family={Riley},
-           familyi={R\bibinitperiod},
-           given={Kevin\bibnamedelima E.},
-           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=bc292f67802ed46614a33453b85f3c5d}{%
-           family={Hobza},
-           familyi={H\bibinitperiod},
-           given={Pavel},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Chemical Society (ACS)}%
-      }
-      \strng{namehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{fullhash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{bibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{authorbibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{authornamehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{authorfullhash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1549-9626}
-      \field{journaltitle}{J. Chem. Theory Comput.}
-      \field{month}{1}
-      \field{number}{2}
-      \field{title}{Investigations into the Nature of Halogen Bonding Including Symmetry Adapted Perturbation Theory Analyses}
-      \field{volume}{4}
-      \field{year}{2008}
-      \field{pages}{232\bibrangedash 242}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1021/ct700216w
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1021/ct700216w
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1021/ct700216w
-      \endverb
-    \endentry
-    \entry{Riley13PhysChemChemPhys15p17742}{article}{}
-      \name{author}{2}{}{%
-        {{hash=bb7c082d0da9795cd3b6cc70e652bd87}{%
-           family={Riley},
-           familyi={R\bibinitperiod},
-           given={Kevin\bibnamedelima E.},
-           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=bc292f67802ed46614a33453b85f3c5d}{%
-           family={Hobza},
-           familyi={H\bibinitperiod},
-           given={Pavel},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Royal Society of Chemistry (RSC)}%
-      }
-      \strng{namehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{fullhash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{bibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{authorbibnamehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{authornamehash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \strng{authorfullhash}{a62f0e9ea7f583ba4527f0652752c82c}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1463-9084}
-      \field{journaltitle}{Phys. Chem. Chem. Phys.}
-      \field{number}{41}
-      \field{title}{The relative roles of electrostatics and dispersion in the stabilization of halogen bonds}
-      \field{volume}{15}
-      \field{year}{2013}
-      \field{pages}{17742}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1039/c3cp52768a
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1039/C3CP52768A
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1039/C3CP52768A
-      \endverb
-    \endentry
-    \entry{Sedlak14JPhysChemA118p3846}{article}{}
-      \name{author}{3}{}{%
-        {{hash=489833b4fd58e25ef5f1909fcec7b216}{%
-           family={Sedlak},
-           familyi={S\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-        {{hash=6afc66db40c7de0b711aab11aa4368fc}{%
-           family={Deepa},
-           familyi={D\bibinitperiod},
-           given={Palanisamy},
-           giveni={P\bibinitperiod}}}%
-        {{hash=bc292f67802ed46614a33453b85f3c5d}{%
-           family={Hobza},
-           familyi={H\bibinitperiod},
-           given={Pavel},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Chemical Society (ACS)}%
-      }
-      \strng{namehash}{28d56172aca552ed81f5d23c8d07ffc0}
-      \strng{fullhash}{602559b23be8f9af63ec687b8f41ad2d}
-      \strng{bibnamehash}{602559b23be8f9af63ec687b8f41ad2d}
-      \strng{authorbibnamehash}{602559b23be8f9af63ec687b8f41ad2d}
-      \strng{authornamehash}{28d56172aca552ed81f5d23c8d07ffc0}
-      \strng{authorfullhash}{602559b23be8f9af63ec687b8f41ad2d}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1520-5215}
-      \field{journaltitle}{J. Phys. Chem. A}
-      \field{month}{5}
-      \field{number}{21}
-      \field{title}{Why Is the L-Shaped Structure of X2X2 (X = F, Cl, Br, I) Complexes More Stable Than Other Structures?}
-      \field{volume}{118}
-      \field{year}{2014}
-      \field{pages}{3846\bibrangedash 3855}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1021/jp502648e
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1021/jp502648e
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1021/jp502648e
-      \endverb
-    \endentry
     \entry{Nguyen20JChemTheoryComput16p2258}{article}{}
       \name{author}{6}{}{%
         {{hash=7f717a31d6155f6c4101d05aee44186f}{%
@@ -515,8 +376,8 @@
       \strng{authorbibnamehash}{48e6a7fa3fea8847cfa74659436089e3}
       \strng{authornamehash}{e6578a67c597f657c044a32847d56ea5}
       \strng{authorfullhash}{48e6a7fa3fea8847cfa74659436089e3}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1549-9626}
@@ -569,8 +430,8 @@
       \strng{authorbibnamehash}{022b973c26823d7054acc824e855576d}
       \strng{authornamehash}{eea308d215e40a2ea5deab731386e647}
       \strng{authorfullhash}{022b973c26823d7054acc824e855576d}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1089-7690}
@@ -608,8 +469,8 @@
       \strng{authorbibnamehash}{3a2585af369dbd4150db746c63177b0c}
       \strng{authornamehash}{3a2585af369dbd4150db746c63177b0c}
       \strng{authorfullhash}{3a2585af369dbd4150db746c63177b0c}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0947-6539}

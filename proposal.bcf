@@ -1932,16 +1932,13 @@
     <bcf:citekey order="2">Robert06RNA12p717</bcf:citekey>
     <bcf:citekey order="3">Imai08ProteinScience17p1129</bcf:citekey>
     <bcf:citekey order="3">Konst2017</bcf:citekey>
-    <bcf:citekey order="4">Riley08JChemTheoryComput4p232</bcf:citekey>
-    <bcf:citekey order="4">Riley13PhysChemChemPhys15p17742</bcf:citekey>
-    <bcf:citekey order="4">Sedlak14JPhysChemA118p3846</bcf:citekey>
-    <bcf:citekey order="5">Nguyen20JChemTheoryComput16p2258</bcf:citekey>
+    <bcf:citekey order="4">Nguyen20JChemTheoryComput16p2258</bcf:citekey>
+    <bcf:citekey order="5">Staroverov03JChemPhys119p12129</bcf:citekey>
+    <bcf:citekey order="5">Grimme12ChemEurJ18p9955</bcf:citekey>
     <bcf:citekey order="6">Staroverov03JChemPhys119p12129</bcf:citekey>
     <bcf:citekey order="6">Grimme12ChemEurJ18p9955</bcf:citekey>
-    <bcf:citekey order="7">Staroverov03JChemPhys119p12129</bcf:citekey>
-    <bcf:citekey order="7">Grimme12ChemEurJ18p9955</bcf:citekey>
-    <bcf:citekey order="8">Konst2017</bcf:citekey>
-    <bcf:citekey order="9">Nguyen20JChemTheoryComput16p2258</bcf:citekey>
+    <bcf:citekey order="7">Konst2017</bcf:citekey>
+    <bcf:citekey order="8">Nguyen20JChemTheoryComput16p2258</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
