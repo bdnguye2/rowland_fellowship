@@ -1,18 +1,18 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'proposal.blg'
-[23] biber:313> INFO - === Fri May 29, 2020, 06:05:48
-[48] Biber.pm:371> INFO - Reading 'proposal.bcf'
-[124] Biber.pm:857> INFO - Found 8 citekeys in bib section 0
-[139] Biber.pm:3981> INFO - Processing section 0
-[149] Biber.pm:4154> INFO - Looking for bibtex format file 'references.bib' for section 0
-[151] bibtex.pm:1468> INFO - LaTeX decoding ...
-[172] bibtex.pm:1294> INFO - Found BibTeX data source 'references.bib'
-[234] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[234] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[234] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[234] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
-[244] bbl.pm:617> INFO - Writing 'proposal.bbl' with encoding 'ascii'
-[249] Utils.pm:169> WARN - The entry 'Konst2017' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[250] Utils.pm:169> WARN - The entry 'Nguyen20JChemTheoryComput16p2258' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[251] bbl.pm:720> INFO - Output to proposal.bbl
-[251] Biber.pm:110> INFO - WARNINGS: 2
+[20] biber:313> INFO - === Tue Jun 30, 2020, 02:43:44
+[36] Biber.pm:371> INFO - Reading 'proposal.bcf'
+[80] Biber.pm:857> INFO - Found 9 citekeys in bib section 0
+[88] Biber.pm:3981> INFO - Processing section 0
+[96] Biber.pm:4154> INFO - Looking for bibtex format file 'references.bib' for section 0
+[97] bibtex.pm:1468> INFO - LaTeX decoding ...
+[120] bibtex.pm:1294> INFO - Found BibTeX data source 'references.bib'
+[185] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[185] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[185] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[185] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[194] bbl.pm:617> INFO - Writing 'proposal.bbl' with encoding 'ascii'
+[199] Utils.pm:169> WARN - The entry 'Konst2017' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[200] Utils.pm:169> WARN - The entry 'Nguyen20JChemTheoryComput16p2258' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[202] bbl.pm:720> INFO - Output to proposal.bbl
+[202] Biber.pm:110> INFO - WARNINGS: 2

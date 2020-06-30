@@ -398,6 +398,54 @@
       \verb http://dx.doi.org/10.1021/acs.jctc.9b01176
       \endverb
     \endentry
+    \entry{doi:10.1063/1.3442749}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b29676423e14d7ecee592adcf2a20fef}{%
+           family={Eshuis},
+           familyi={E\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod}}}%
+        {{hash=896a04e7b7a2cc17110ebd18a393f375}{%
+           family={Yarkony},
+           familyi={Y\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7b43fcac9e5264f875801fb40eaa2aaa}{%
+           family={Furche},
+           familyi={F\bibinitperiod},
+           given={Filipp},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{15f1298157779b2470214c5ba074e547}
+      \strng{fullhash}{7438db1a82d1a344c2fc1cbce2e4607d}
+      \strng{bibnamehash}{7438db1a82d1a344c2fc1cbce2e4607d}
+      \strng{authorbibnamehash}{7438db1a82d1a344c2fc1cbce2e4607d}
+      \strng{authornamehash}{15f1298157779b2470214c5ba074e547}
+      \strng{authorfullhash}{7438db1a82d1a344c2fc1cbce2e4607d}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Chem. Phys.}
+      \field{number}{23}
+      \field{title}{Fast computation of molecular random phase approximation correlation energies using resolution of the identity and imaginary frequency integration}
+      \field{volume}{132}
+      \field{year}{2010}
+      \field{pages}{234114}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3442749
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1063/1.3442749
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/1.3442749
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/1.3442749
+      \endverb
+    \endentry
     \entry{Staroverov03JChemPhys119p12129}{article}{}
       \name{author}{4}{}{%
         {{hash=68444601b5ada1afb9472f658e64431f}{%
@@ -430,8 +478,8 @@
       \strng{authorbibnamehash}{022b973c26823d7054acc824e855576d}
       \strng{authornamehash}{eea308d215e40a2ea5deab731386e647}
       \strng{authorfullhash}{022b973c26823d7054acc824e855576d}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1089-7690}
@@ -469,8 +517,8 @@
       \strng{authorbibnamehash}{3a2585af369dbd4150db746c63177b0c}
       \strng{authornamehash}{3a2585af369dbd4150db746c63177b0c}
       \strng{authorfullhash}{3a2585af369dbd4150db746c63177b0c}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0947-6539}

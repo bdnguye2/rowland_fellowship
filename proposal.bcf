@@ -1933,12 +1933,12 @@
     <bcf:citekey order="3">Imai08ProteinScience17p1129</bcf:citekey>
     <bcf:citekey order="3">Konst2017</bcf:citekey>
     <bcf:citekey order="4">Nguyen20JChemTheoryComput16p2258</bcf:citekey>
-    <bcf:citekey order="5">Staroverov03JChemPhys119p12129</bcf:citekey>
-    <bcf:citekey order="5">Grimme12ChemEurJ18p9955</bcf:citekey>
+    <bcf:citekey order="5">doi:10.1063/1.3442749</bcf:citekey>
     <bcf:citekey order="6">Staroverov03JChemPhys119p12129</bcf:citekey>
     <bcf:citekey order="6">Grimme12ChemEurJ18p9955</bcf:citekey>
-    <bcf:citekey order="7">Konst2017</bcf:citekey>
-    <bcf:citekey order="8">Nguyen20JChemTheoryComput16p2258</bcf:citekey>
+    <bcf:citekey order="7">Staroverov03JChemPhys119p12129</bcf:citekey>
+    <bcf:citekey order="7">Grimme12ChemEurJ18p9955</bcf:citekey>
+    <bcf:citekey order="8">Konst2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
