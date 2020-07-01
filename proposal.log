@@ -1,12 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.23)  30 JUN 2020 04:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.23)  30 JUN 2020 21:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**proposal.tex
-(./proposal.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 7 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**\nonstopmode\input proposal.tex
+(./proposal.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
@@ -897,14 +894,14 @@ Here is how much of TeX's memory you used:
  17252 multiletter control sequences out of 15000+600000
  49231 words of font info for 46 fonts, out of 8000000 for 9000
  60 hyphenation exceptions out of 8191
- 46i,9n,48p,1272b,1792s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,9n,48p,1291b,1792s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 r8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb>
-Output written on proposal.pdf (2 pages, 875742 bytes).
+Output written on proposal.pdf (2 pages, 875756 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
